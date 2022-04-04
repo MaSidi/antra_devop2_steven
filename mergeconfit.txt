@@ -1,5 +1,5 @@
 this is a confict file 
-this is a confict file
+we have confict now 
 this is a confict file
 this is a confict file
 `
